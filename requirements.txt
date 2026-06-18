@@ -2,4 +2,6 @@ flask
 flask-sqlalchemy
 flask-cors
 reportlab
-python-dotenvbcrypt 
+gunicorn
+python-dotenv
+bcrypt
